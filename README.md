@@ -31,7 +31,7 @@ Find the file `index.js` and complete the tasks until all of your tests pass.
 
 If you run into trouble while coding, fight the good fight for 20 minutes and then get on the help channel. __Remember to formulate your help request in a professional manner__ - like you would at the job - by including error messages, screenshots, and any other pertinent information about the problem, as well as what things you have attempted already while trying to solve it.
 
-### Task 3 - Stretch 
+### Task 3 - Stretch
 
 There are stretch goals found throughout `index.js`. Complete these after you have all of your tests passing for MVP!
 
